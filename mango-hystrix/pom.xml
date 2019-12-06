@@ -11,7 +11,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.louis</groupId>
+    <groupId>com.kirk.mango</groupId>
     <artifactId>mango-hystrix</artifactId>
     <version>${project.version}</version>
     <packaging>jar</packaging>

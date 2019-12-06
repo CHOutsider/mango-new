@@ -4,6 +4,11 @@ spring:
   application:
     name: mango-config
   cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        serviceName: ${spring.application.name}    # 注册到consul的服务名称
     config:
       label: master  # git仓库分支
       server:
