@@ -1,8 +1,0 @@
-com\kirk\mango\core\exception\MangoException.class
-com\kirk\mango\core\page\MybatisPageHelper.class
-com\kirk\mango\core\page\PageResult.class
-com\kirk\mango\core\service\CurdService.class
-com\kirk\mango\core\http\HttpResult.class
-com\kirk\mango\core\page\PageRequest.class
-com\kirk\mango\core\page\Param.class
-com\kirk\mango\core\http\HttpStatus.class
