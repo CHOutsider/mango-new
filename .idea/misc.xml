@@ -19,6 +19,8 @@
         <option value="$PROJECT_DIR$/mango-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/config-repo/pom.xml" />
         <option value="$PROJECT_DIR$/mango-conifg/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-consul/pom.xml" />
       </list>
     </option>
   </component>

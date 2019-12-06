@@ -23,9 +23,10 @@
     <bytecodeTargetLevel>
       <module name="config-repo" target="1.5" />
       <module name="mango-admin" target="1.8" />
-      <module name="mango-backup" target="1.8" />
+      <module name="mango-backup" target="8" />
       <module name="mango-common" target="1.8" />
       <module name="mango-conifg" target="1.8" />
+      <module name="mango-consul" target="1.8" />
       <module name="mango-consumer" target="1.8" />
       <module name="mango-core" target="1.8" />
       <module name="mango-hystrix" target="1.8" />
@@ -33,6 +34,7 @@
       <module name="mango-pom" target="1.8" />
       <module name="mango-producer" target="1.8" />
       <module name="mango-producer2" target="1.8" />
+      <module name="mango-zipkin" target="1.8" />
       <module name="mango-zuul" target="1.5" />
     </bytecodeTargetLevel>
   </component>
