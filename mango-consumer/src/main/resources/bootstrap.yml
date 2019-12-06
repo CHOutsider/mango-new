@@ -12,8 +12,3 @@ spring:
       name: consumer  # 对应{application}部分
       profile: dev  # 对应{profile}部分
       label: master  # 对应git的分支，如果配置中心使用的是本地存储，则该参数无用
-  rabbitmq:
-    host: 192.168.80.128
-    port: 5672
-    username: guest
-    password: guest

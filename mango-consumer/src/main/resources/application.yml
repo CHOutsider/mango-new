@@ -3,16 +3,16 @@ server:
 spring:
   application:
     name: mango-consumer
+  zipkin:
+    base-url: http://192.168.80.128:9411
+    sleuth:
+      sampler:
+        probability: 1
   boot:
     admin:
       client:
-        instance:
-          instance.service-base-url: ${spring.application.name}
-  zipkin:
-    base-url: http://192.168.80.128:9411/
-  sleuth:
-    sampler:
-      probability: 1 #样本采集量，默认为0.1，为了测试这里修改为1，正式环境一般使用默认值
+        url: "http://localhost:8000"
+
 # 开放健康检查接口
 management:
   endpoints:
