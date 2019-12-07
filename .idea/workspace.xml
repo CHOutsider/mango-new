@@ -2,9 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="534fc551-ea99-4325-a832-f1b4ee833018" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_bus_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_bus_amqp_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_stream_rabbit_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_amqp_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_core_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_jmx_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_tuple_1_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tuple_1_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mango-conifg/src/main/resources/META-INF/spring.factories" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mango-conifg/mango-conifg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mango-conifg/mango-conifg.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mango-conifg/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mango-conifg/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-conifg/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mango-conifg/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-consumer/mango-consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mango-consumer/mango-consumer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mango-consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-consumer/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mango-consumer/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/mango-admin/target/" />
     <ignored path="$PROJECT_DIR$/mango-common/target/" />
@@ -47,10 +73,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mango-conifg/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mango-conifg/src/main/resources/META-INF/spring.factories">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="67" selection-start-column="67" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mango-consumer/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="285">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -58,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mango-consumer/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            <state relative-caret-position="212">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -67,8 +111,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mango-conifg/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+            <state relative-caret-position="304">
+              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -88,16 +132,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mango-consumer/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="84" column="21" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
+            <state relative-caret-position="291">
+              <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mango-consumer/src/main/java/com/kirk/mango/consumer/controller/SpringConfigController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
+            <state relative-caret-position="77">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -124,7 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/kirk/mango/admin/controller/SysLoginLogController.java" />
         <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/kirk/mango/admin/controller/SysMenuController.java" />
         <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/kirk/mango/admin/controller/SysRoleController.java" />
         <option value="$PROJECT_DIR$/mango-admin/src/main/java/com/kirk/mango/admin/controller/SysUserController.java" />
@@ -165,16 +208,17 @@
         <option value="$PROJECT_DIR$/mango-consumer/src/main/java/com/kirk/mango/consumer/MangoConsumerApplication.java" />
         <option value="$PROJECT_DIR$/mango-consumer/src/main/java/com/kirk/mango/consumer/controller/FeignHelloController.java" />
         <option value="$PROJECT_DIR$/mango-zuul/src/main/java/com/kirk/mango/zuul/MyFilter.java" />
-        <option value="$PROJECT_DIR$/mango-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/mango-consumer/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/mango-consumer/src/main/java/com/kirk/mango/consumer/controller/SpringConfigController.java" />
         <option value="$PROJECT_DIR$/config-repo/consumer-dev.properties" />
         <option value="$PROJECT_DIR$/mango-hystrix/pom.xml" />
         <option value="$PROJECT_DIR$/mango-admin/pom.xml" />
         <option value="$PROJECT_DIR$/mango-conifg/src/main/java/com/kirk/mango/config/MangoConfigApplication.java" />
-        <option value="$PROJECT_DIR$/mango-conifg/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/mango-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mango-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-consumer/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/mango-conifg/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-conifg/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mango-conifg/src/main/resources/META-INF/spring.factories" />
       </list>
     </option>
   </component>
@@ -313,6 +357,21 @@
             </path>
             <path>
               <item name="mango-new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mango-conifg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mango-new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mango-conifg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mango-new" type="b2602c69:ProjectViewProjectNode" />
               <item name="mango-consumer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -350,6 +409,13 @@
               <item name="consumer" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mango-new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mango-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -366,7 +432,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/config-repo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mango-consumer/src/main/java/com/kirk/mango/consumer" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -379,11 +445,11 @@
       <recent name="com.kirk.mango" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaWS\gaming-server\mango-new\mango-conifg\src\main\resources" />
       <recent name="E:\IdeaProjects\mango\mango-consumer\src\main\java\com\kirk\mango\consumer\controller" />
       <recent name="E:\IdeaProjects\mango\mango-consumer\src\main\resources" />
       <recent name="E:\IdeaProjects\mango\mango-consul" />
       <recent name="E:\IdeaProjects\mango\mango-zipkin" />
-      <recent name="E:\IdeaProjects\mango\mango-conifg\src\main\java\com\kirk\mango\config" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -511,9 +577,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.MangoProducerApplication" />
         <item itemvalue="Spring Boot.MangoConsumerApplication" />
         <item itemvalue="Spring Boot.MangoProducerApplication (1)" />
-        <item itemvalue="Spring Boot.MangoProducerApplication" />
         <item itemvalue="Spring Boot.MangoConfigApplication" />
         <item itemvalue="Spring Boot.MangoHystrixApplication" />
       </list>
@@ -534,7 +600,7 @@
       <workItem from="1575629597584" duration="6671000" />
       <workItem from="1575639767805" duration="884000" />
       <workItem from="1575640735706" duration="3707000" />
-      <workItem from="1575650145977" duration="2268000" />
+      <workItem from="1575650145977" duration="4196000" />
     </task>
     <task id="LOCAL-00001" summary="mango">
       <created>1575605190709</created>
@@ -592,11 +658,18 @@
       <option name="project" value="LOCAL" />
       <updated>1575651779652</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="mango">
+      <created>1575652656074</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575652656074</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48029000" />
+    <option name="totallyTimeSpent" value="49957000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -609,6 +682,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -616,11 +690,11 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Web" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49585062" visible="true" weight="0.4493192" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49585062" visible="true" weight="0.4493192" />
       <window_info id="JRebel" order="7" sideWeight="0.5041494" side_tool="true" weight="0.29727685" />
       <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="0" sideWeight="0.49924356" weight="0.32903227" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="1" sideWeight="0.7246596" visible="true" weight="0.71565497" />
+      <window_info anchor="bottom" id="Run Dashboard" order="1" sideWeight="0.7246596" visible="true" weight="0.3146965" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32419354" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32850242" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
@@ -659,19 +733,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="mango" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mango-backup/src/main/java/com/kirk/mango/backup/controller/MySqlBackupController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="97" column="8" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2783#2804#0" expanded="true" />
-            <element signature="e#3006#3022#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mango-consumer/src/main/resources/META-INF/spring.factories" />
     <entry file="file://$PROJECT_DIR$/mango-zipkin/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -951,34 +1012,6 @@
         <state relative-caret-position="-171" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mango-conifg/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="16" selection-start-line="6" selection-start-column="4" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mango-consumer/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mango-consumer/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mango-conifg/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mango-conifg/src/main/java/com/kirk/mango/config/MangoConfigApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -989,20 +1022,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mango-consumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="84" column="21" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mango-consumer/src/main/java/com/kirk/mango/consumer/controller/SpringConfigController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
+        <state relative-caret-position="77">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/TEMP/360zip$Temp/360$3/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-conifg/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-consumer/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-conifg/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango-conifg/src/main/resources/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="67" selection-start-column="67" selection-end-column="67" />
         </state>
       </provider>
     </entry>
